@@ -1,0 +1,25 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "starWarsFinal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node starWarsFinal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maya-Tea/starWars.git"
+  },
+  "author": "Mayat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maya-Tea/starWars/issues"
+  },
+  "homepage": "https://github.com/Maya-Tea/starWars#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
